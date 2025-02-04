@@ -9,3 +9,4 @@ console.log('A conversão é', convertido, 'km');
 
 console.log(`teste main!`);
 
+console.log(`Testando Pedro`);
