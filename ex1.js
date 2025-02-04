@@ -7,4 +7,8 @@ var convertido = metros / 1000
 
 console.log('A conversão é', convertido, 'km');
 
+<<<<<<< HEAD
 console.log(`teste main!`);
+=======
+console.log('Testando Teste 1');
+>>>>>>> Teste
